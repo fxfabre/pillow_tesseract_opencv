@@ -3,5 +3,5 @@ pytesseract
 opencv-contrib-python
 kraken
 pandas
-
+ipywebrtc
 
